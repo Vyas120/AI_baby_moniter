@@ -1,0 +1,32 @@
+body{
+    background-size: cover;
+    background-position: center;
+}
+
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+background-color: cyan;
+}
+
+#status, #num_objects
+{
+font-size: 18px;
+background-color: cyan;
+margin-top: 80px;
+}
+
+canvas{
+    box-shadow: 10px, 10px, 10px cyan;
+    border-radius: 20px;
+}
+
+.head{
+    font-size: small;
+     background-color: cyan;
+    margin-top: 0px;
+}
+
